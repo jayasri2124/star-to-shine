@@ -25,6 +25,12 @@ The app will open in your browser (usually at http://localhost:8501). The app st
 this chatbot contains both the admin view, user view:
 Admin view:
 - Use the sidebar to switch to Admin mode to see/save/export applicants as CSV.
-Deployed on Streamlit Cloud 
+Deployed on Streamlit Cloud Link " https://star-to-shine-genz93um4hpozpa8cvlguc.streamlit.app/"
+To run locally:
+git clone https://github.com/jayasri2124/star-to-shine.git
+cd star-to-shine
+pip install -r requirements.txt
+streamlit run app.py
+
 
 
