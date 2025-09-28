@@ -1,0 +1,20 @@
+
+# Python
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.env
+
+# SQLite DB
+*.db
+star_to_shine.db
+
+# Streamlit / editor
+.streamlit/
+.idea/
+.vscode/
